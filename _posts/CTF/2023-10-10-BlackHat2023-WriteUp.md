@@ -162,9 +162,8 @@ So lets load the server to IDA and run CAPA plugin and see if there is anything 
 </p>
 <br>
 
-The most interesting one is *Contain Obfuscated StackString* :-
-
-Lets analyze this SUS Function :-
+The most interesting one is *Contain Obfuscated StackString*
+Lets analyze the SUS Function that has Obfuscated StackString:-
 
 <p align="center">
   <img src="/assets/images/CTF/BlackHat2023/Server/2.png" />
