@@ -3,7 +3,7 @@ title: "BlackHat MEA 2023 Reverse WriteUps"
 classes: wide
 header:
   teaser: /assets/images/CTF/BlackHat2023/BlackHat.png
-ribbon: BabyBlue
+ribbon: Blue
 description: "BlackHat MEA 2023 WriteUps"
 categories:
   - CTF WriteUps
