@@ -16,7 +16,7 @@ toc: true
 <p align="center">
   <img src="/assets/images/CTF/BlackHat2023/BlackHat.png" />
 </p>
-<br>
+
 
 ## WhatAmI
 
@@ -158,7 +158,7 @@ We have got an ELF file called server ,config file and tmp folder that has flag.
 So lets load the server to IDA and run CAPA plugin and see if there is anything interesting:- 
 
 <p align="center">
-  <img src="/assets/images/CTF/BlackHat2023/server/1.png" />
+  <img src="/assets/images/CTF/BlackHat2023/Server/1.png" />
 </p>
 <br>
 
@@ -167,7 +167,7 @@ The most interesting one is *Contain Obfuscated StackString* :-
 Lets analyze this SUS Function :-
 
 <p align="center">
-  <img src="/assets/images/CTF/BlackHat2023/armor/2.png" />
+  <img src="/assets/images/CTF/BlackHat2023/Server/2.png" />
 </p>
 <br>
 
