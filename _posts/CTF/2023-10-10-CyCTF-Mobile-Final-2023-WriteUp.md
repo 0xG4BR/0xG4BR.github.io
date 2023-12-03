@@ -29,7 +29,7 @@ To solve this challenge we need to recap how did we get the flag from **"IWallet
 
 you can find the write up over ["here"](https://medium.com/@mohammadolimat/cyctf23-iwallet-mobile-challenge-writeup-6be123b3f0fa)
 
-So after running the swift demangler script lets search for **"ini"** in the Symbol Tree window in ghidra :-
+Lets start analyzing IWallet Version 2. So after running the swift demangler script lets search for **"ini"** in the Symbol Tree window in ghidra :-
 
 <p align="center">
   <img src="/assets/images/CTF/CyCTF-Finals/Mobile/IWallet2/2.png" />
