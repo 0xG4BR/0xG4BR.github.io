@@ -339,6 +339,6 @@ Then run the app and check carefully the logs :-
 <center><font size="3"> <u>Figure: </u>The Key<u></u> </font></center>
 <br>
 
-The key found in the logs
+As you can see we found the key in the logs. Then use it to get the flag.
 
 Thats it, I hope you have enjoyed the writeup. If you have any question or comment please contact me.
