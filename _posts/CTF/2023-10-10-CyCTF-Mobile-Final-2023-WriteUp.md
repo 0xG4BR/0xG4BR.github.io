@@ -37,7 +37,7 @@ Lets start analyzing IWallet Version 2. So after running the swift demangler scr
 <center><font size="3"> <u>Figure: </u> Symbol Tree window<u></u> </font></center>
 <br>
 
-after searching for the function that corresponds to **PINviewController.init function in Version 1** in QUAl which is **secViewController.init**. there was two main things that were interesting for me when I analyzed the function to find the difference between both :-
+After searching for the function that corresponds to **PINviewController.init function in Version 1** in QUAl which is **secViewController.init** in Version 2. there were two main things that were interesting for me after I analyzed the function :-
 
 -   First the xor operation found at the beginning of the function
 
