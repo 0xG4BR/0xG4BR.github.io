@@ -4,7 +4,7 @@ classes: wide
 header:
   teaser: /assets/images/CTF/CyCTF-Finals/cover.png
 ribbon: BabyBlue
-description: "CyCTF 2023 Finals Mobile WriteUps"
+description: "Mobile WriteUps"
 categories:
   - CTF WriteUps
 toc: true
