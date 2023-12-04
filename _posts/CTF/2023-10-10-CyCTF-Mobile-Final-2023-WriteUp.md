@@ -342,3 +342,5 @@ Then run the app and check carefully the logs :-
 As you can see we found the key in the logs. Then use it to get the flag.
 
 Thats it, I hope you have enjoyed the writeup. If you have any question or comment please contact me.
+
+Last but not least, Thanks to ["Hassan Mostafa"](https://www.linkedin.com/in/h4ss4nmostafa/) for this great challenge and for his help in solving it in the intended way. It was my first time-solving IOS Mobile challenge and learned new things waiting for more.
