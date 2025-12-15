@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "0xG4BR"
   avatar : "/assets/images/anonymous.png"
-  bio    : "My name is Mohammed Gabr. I'm interested in Malware analysis, development, and reverse engineering."
+  bio    : "Just a simple guy interested in Malware Analysis and Reverse Engineering"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
